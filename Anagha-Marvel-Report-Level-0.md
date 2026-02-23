@@ -50,6 +50,7 @@ The scratch model *computed predictions, gradients and updated weights* iterativ
 
 #### Results:
 Scratch Model -> R² ≈ 0.576
+
 Sklearn Model -> R² ≈ 0.576
 
 Both models produced **nearly identical results**, confirming the correctness of the manual implementation. The R² score indicates that the model explains about **57%** of the variance in housing prices. An **Actual vs Predicted plot** further showed a **positive linear trend** with **moderate scatter**, reflecting real-world data complexity.
@@ -87,26 +88,22 @@ For this task, I wrote a beginner-friendly technical article titled **“Why Pyt
 
 This task involved simulating a **radar system** using an **ultrasonic sensor** and **servo motor** in Tinkercad. The ultrasonic sensor was used to **measure distances**, while the servo motor **rotated the sensor** to scan a wider area. The distance and angle values were displayed on the **Serial Monitor**, thereby signifying the correct functioning of the simulation.
 
-<video controls>
-  <source src="Radar-System.mp4" type="video/mp4" alt="Simulation">
-</video>
+![Simulation](Radar-System.gif)
 
 
 ## 10: Speed Control of DC Motor (Task 10)
 
 In this task, I learned how to control a **DC Motor** using an **Arduino UNO** and **L298N motor driver**. The circuit was implemented on **hardware**, and the motor speed was controlled through **Arduino programming**. This activity introduced me to **motor drivers** and **practical motor control**, strengthening my understanding of **embedded systems**.
 
-![Circuit Connections](DC-Motor-Circuit.jpg)
-<video controls>
-  <source src="DC-Motor-Working.mp4" type="video/mp4" alt="Circuit Working">
-</video>
+[View the Video](https://drive.google.com/file/d/1T-sv6EnoMsRybXGKMe1zZWdyIotzWc_W/view?usp=drivesdk)
+
 
 
 ## 11: LED Toggle using ESP32 (Task 11)
 
 Here, I created a **web-controlled LED system** using an **ESP32**. A **local web server** was hosted on the ESP32, allowing the LED to be toggled **ON/OFF** using my **personal WiFi network**. This task helped me understand **ESP32 basics**, **GPIO control** and **simple IoT web interfaces**.
 
-![Circuit](LED-Toggle-ESP32.jpg)
+[View the Video](https://drive.google.com/file/d/1JzolDEha_x14Ci58qCSirxzSkoyi4bwD/view?usp=drivesdk)
 
 
 ## 12: Soldering Prerequisites (Task 12)
@@ -121,9 +118,7 @@ In this task, I got familiar with **basic soldering equipment** including the **
 This task involved designing a **simple burglar alarm** using **2 input variables: door status and key press**. Using Karnaugh Map, I derived the logic such that the *alarm blinks when the door is open and the key is not pressed*. The logic circuit was also simulated in **Tinkercad**, helping reinforce Boolean simplification and basic digital logic implementation.
 
 ![Karnaugh Map](Circuit-Expression.jpg)
-<video controls>
-  <source src="Burglar-Alarm.mp4" type="video/mp4" alt="Simulation">
-</video>
+![Simulation](Burglar-Alarm.gif)
 
 
 ## 14: Active Participation (Task 15)
@@ -143,7 +138,7 @@ This task involved completing the **Command Line Murders** scenario on **SadServ
 
 ## 16: Making a Web App (Task 19)
 
-As part of this task, a **Resource Library web application** was developed using **Node.js** and **Express.js**, enabling users to browse educational resources such as *articles and book*s, along with basic account management features. The application was structured using* Express routing, EJS templates and static assets for **styling and layout***. This project strengthened my understanding of **backend development**, **routing** and **integrating frontend and backend components**, while also providing hands-on experience in building a full-stack web application.
+As part of this task, a **Resource Library web application** was developed using **Node.js** and **Express.js**, enabling users to browse educational resources such as *articles and books*, along with basic account management features. The application was structured using *Express routing, EJS templates and static assets for **styling and layout***. This project strengthened my understanding of **backend development**, **routing** and **integrating frontend and backend components**, while also providing hands-on experience in building a full-stack web application.
 
 ![Website UI](Resource-Library.png)
 [View the GitHub Repository](https://github.com/SilverSquare-22/Resource-Library)
