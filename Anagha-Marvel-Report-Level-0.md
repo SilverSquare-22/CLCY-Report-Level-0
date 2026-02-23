@@ -102,7 +102,7 @@ In this task, I learned how to control a **DC Motor** using an **Arduino UNO** a
 
 ## 11: LED Toggle using ESP32 (Task 11)
 
-Here, I created a **web-controlled LED system** using an **ESP32**. A **local web server** was hosted on the ESP32, allowing the LED to be toggled **ON/OFF** using my **personal WiFi network**. This task helped me understand **ESP32 basics**, **GPIO control** and **simple IoT web interfaces**.
+Here, I created a **web-controlled LED system** using an **ESP32**. A **local web server** was hosted on the ESP32, allowing the LED to be toggled **ON/OFF** using the **personal WiFi network**. This task helped me understand **ESP32 basics**, **GPIO control** and **simple IoT web interfaces**.
 
 [View Video](https://drive.google.com/file/d/1JzolDEha_x14Ci58qCSirxzSkoyi4bwD/view?usp=drivesdk)
 
@@ -116,7 +116,7 @@ In this task, I got familiar with **basic soldering equipment** including the **
 
 ## 13: Karnaugh Maps and Deriving the Logic Circuit (Task 14)
 
-This task involved designing a **simple burglar alarm** using **2 input variables: door status and key press**. Using Karnaugh Map, I derived the logic such that the *alarm blinks when the door is open and the key is not pressed*. The logic circuit was also simulated in **Tinkercad**, helping reinforce Boolean simplification and basic digital logic implementation.
+This task involved designing a **simple burglar alarm** using **2 input variables: door status and key press**. Using Karnaugh Map, I derived the logic such that the *alarm buzzes when the door is open and the key is not pressed*. The logic circuit was also simulated in **Tinkercad**, helping reinforce Boolean simplification and basic digital logic implementation.
 
 ![Karnaugh Map](Circuit-Expression.jpg)
 ![Simulation](Burglar-Alarm.gif)
