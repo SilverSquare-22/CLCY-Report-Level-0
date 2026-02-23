@@ -2,7 +2,7 @@
 
 In this task, I understood the *working of a 3D printer* - its hardware aspects, printer and PLA settings etc. I also learnt about **STL (Stereo Lithography)** files and designed a **keychain model** using **Autodesk**. Finally, the file was sliced and printed.
 
-![Keychain](Anagha's-Keychain.jpeg)
+![Keychain](Anagha's-Keychain.jpg)
 
 
 ## 2: API (Task 2)
