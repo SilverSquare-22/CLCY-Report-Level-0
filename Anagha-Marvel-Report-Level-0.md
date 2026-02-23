@@ -95,6 +95,7 @@ This task involved simulating a **radar system** using an **ultrasonic sensor** 
 
 In this task, I learned how to control a **DC Motor** using an **Arduino UNO** and **L298N motor driver**. The circuit was implemented on **hardware**, and the motor speed was controlled through **Arduino programming**. This activity introduced me to **motor drivers** and **practical motor control**, strengthening my understanding of **embedded systems**.
 
+![Circuit Connections](DC-Motor-Circuit.jpg)
 [View the Video](https://drive.google.com/file/d/1T-sv6EnoMsRybXGKMe1zZWdyIotzWc_W/view?usp=drivesdk)
 
 
