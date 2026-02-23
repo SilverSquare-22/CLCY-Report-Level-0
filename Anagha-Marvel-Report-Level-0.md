@@ -10,7 +10,7 @@ In this task, I understood the *working of a 3D printer* - its hardware aspects,
 This task involved understanding what an **API** is, along with its applications. To understand how it works, I built **SkySwings**, a web-based weather app that provides **real-time weather updates** for the cities being searched, using the **OpenWeatherAPI**.
 
 ![Website UI](SkySwings-UI.jpg)
-[View the Website](https://cloud-ctrl-55om-moonpie.vercel.app/)
+[View Website](https://cloud-ctrl-55om-moonpie.vercel.app/)
 
 
 ## 3: Working with GitHub (Task 3)
@@ -74,14 +74,14 @@ This task introduced me to practical **NumPy** operations such as *reshaping, tr
 In this task, I built a personal portfolio website using **HTML**, **CSS** and **JavaScript**. The webpage includes sections such as **About Me**, **Skills**, **Projects**, **Social Links** etc. The site is designed to be responsive across devices and has been deployed using **GitHub Pages**. This task helped me improve my **frontend fundamentals** and understand **basic deployment workflows** using GitHub.
 
 ![Website UI](My-Portfolio-UI.png)
-[View the Website](https://silversquare-22.github.io/My-Portfolio/)
+[View Website](https://silversquare-22.github.io/My-Portfolio/)
 
 
 ## 8: Resource Article using Markdown (Task 8)
 
 For this task, I wrote a beginner-friendly technical article titled **“Why Python is a Different Breed”** using Markdown. The article focuses on Python’s **simplicity**, **readable syntax** and why it is often recommended as a **first programming language**. It also briefly highlights Python’s **rich ecosystem of libraries**, while also emphasising the relevance of Markdown in formatting text.
 
-[View the Resource Article](https://github.com/SilverSquare-22/Markdown-Resource-Article-on-Python)
+[View Resource Article](https://github.com/SilverSquare-22/Markdown-Resource-Article-on-Python)
 
 
 ## 9: Tinkercad (Task 9)
@@ -96,7 +96,7 @@ This task involved simulating a **radar system** using an **ultrasonic sensor** 
 In this task, I learned how to control a **DC Motor** using an **Arduino UNO** and **L298N motor driver**. The circuit was implemented on **hardware**, and the motor speed was controlled through **Arduino programming**. This activity introduced me to **motor drivers** and **practical motor control**, strengthening my understanding of **embedded systems**.
 
 ![Circuit Connections](DC-Motor-Circuit.jpg)
-[View the Video](https://drive.google.com/file/d/1T-sv6EnoMsRybXGKMe1zZWdyIotzWc_W/view?usp=drivesdk)
+[View Video](https://drive.google.com/file/d/1T-sv6EnoMsRybXGKMe1zZWdyIotzWc_W/view?usp=drivesdk)
 
 
 
@@ -104,7 +104,7 @@ In this task, I learned how to control a **DC Motor** using an **Arduino UNO** a
 
 Here, I created a **web-controlled LED system** using an **ESP32**. A **local web server** was hosted on the ESP32, allowing the LED to be toggled **ON/OFF** using my **personal WiFi network**. This task helped me understand **ESP32 basics**, **GPIO control** and **simple IoT web interfaces**.
 
-[View the Video](https://drive.google.com/file/d/1JzolDEha_x14Ci58qCSirxzSkoyi4bwD/view?usp=drivesdk)
+[View Video](https://drive.google.com/file/d/1JzolDEha_x14Ci58qCSirxzSkoyi4bwD/view?usp=drivesdk)
 
 
 ## 12: Soldering Prerequisites (Task 12)
@@ -142,4 +142,4 @@ This task involved completing the **Command Line Murders** scenario on **SadServ
 As part of this task, a **Resource Library web application** was developed using **Node.js** and **Express.js**, enabling users to browse educational resources such as *articles and books*, along with basic account management features. The application was structured using *Express routing, EJS templates and static assets for **styling and layout***. This project strengthened my understanding of **backend development**, **routing** and **integrating frontend and backend components**, while also providing hands-on experience in building a full-stack web application.
 
 ![Website UI](Resource-Library.png)
-[View the GitHub Repository](https://github.com/SilverSquare-22/Resource-Library)
+[View GitHub Repository](https://github.com/SilverSquare-22/Resource-Library)
